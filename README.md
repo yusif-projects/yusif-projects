@@ -1,5 +1,5 @@
 ### Hello there! 🎩
 
-I'm an iOS Developer from Baku, Azerbaijan..
+I'm Yusif, an iOS Developer from Baku, Azerbaijan. I write apps using Swift programming language. I don't like coffee.
 
-Send me an email: yusif.projects@gmail.com
+More info at: www.yusif-programmer.com
