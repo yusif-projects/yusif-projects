@@ -3,7 +3,7 @@
 - I'm an ***iOS Developer*** from Baku, Azerbaijan 🇦🇿
 - I write ***native*** iOS applications using `Swift` 👨🏻‍💻
 - I prefer `UIKit` over `SwiftUI` 🤷🏻‍♂️
-- I have close to ***3 years*** of professional experience 🍏
+- I have more than ***3 years*** of professional experience 🍏
 ### Extra info:
 - I dabble in design ✏️
 - I highly dislike coffee ☕️
