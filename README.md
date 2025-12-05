@@ -1,47 +1,35 @@
 <div align="center">
 
-```
-    ┌─────────────────────────────────────────┐
-    │  ◉                                      │
-    │                                         │
-    │           YUSIF ALIYEV                  │
-    │        iOS Software Architect           │
-    │            Baku 🇦🇿                      │
-    │                                         │
-    └─────────────────────────────────────────┘
-                        ───
-```
+# Yusif Aliyev
 
-<br>
+**iOS Software Architect** · Baku, Azerbaijan 🇦🇿
 
-![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white)
-![UIKit](https://img.shields.io/badge/UIKit-007AFF?style=flat-square)
+[![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)](https://swift.org)
+[![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://developer.apple.com)
+[![UIKit](https://img.shields.io/badge/UIKit-007AFF?style=for-the-badge&logoColor=white)](https://developer.apple.com/documentation/uikit)
 
 </div>
 
 ---
 
-### 👋 Hey!
+### About
 
-I build iOS apps for a living — been at it for **5+ years**.
+iOS developer with **5+ years** of experience building native applications.
 
 Currently leading mobile development for a **[popular app](https://apps.apple.com/az/app/id1602500636)** in Azerbaijan.
 
-I'm a **UIKit** person. SwiftUI is cool, but UIKit just *feels right*.
+Focused on **UIKit** — clean architecture, smooth animations, and pixel-perfect interfaces.
 
 ---
 
-### 📱 What's here?
+### What's Here
 
-Just my **pet projects** — stuff I build for fun and learning.
-
-Not production code. Just experiments and weekend ideas.
+Personal projects and experiments — things I build for learning and exploration.
 
 ---
 
 <div align="center">
 
-<sub>Made with ☕ in Baku</sub>
+<sub>Baku, Azerbaijan</sub>
 
 </div>
