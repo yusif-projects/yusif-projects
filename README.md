@@ -14,7 +14,7 @@
 
 ### About
 
-iOS developer with **5+ years** of experience building native applications.
+iOS developer with **6+ years** of experience building native applications.
 
 Currently leading mobile development for a **[popular app](https://apps.apple.com/az/app/id1602500636)** in Azerbaijan.
 
